@@ -15,4 +15,6 @@ FOUNDATION_EXPORT const unsigned char StructureTestVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <StructureTest/PublicHeader.h>
 
+#import <StructureTest/CompanyNow.h>
+
 
